@@ -1,0 +1,1 @@
+2026-11-15T12:40:02.811Z ERROR request_id=732a9133-d39e-45cc-aef0-0d4068b3870e trace_id=073898889e1e0386adb078038861e129 POST /api/orders 503 payment provider timed out after 3000 ms (pool "payments" exhausted)
